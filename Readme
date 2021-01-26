@@ -1,0 +1,15 @@
+PreRequisite:Python should be installed
+Install csvvalidator using command
+pip install csvvalidator
+
+Assumption:
+Emp Salary should be in range 1000 and 50000
+DOJ should be in format D-M-Y
+
+Goal:
+ExecutionStep:
+Post completing prerequisites, Run test_util file using command or directly using run button in IDE
+python test_util.py
+
+Result:
+Result is generated in console with error message

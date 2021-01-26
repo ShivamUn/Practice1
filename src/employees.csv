@@ -1,0 +1,6 @@
+slno,empId,empName,empSalary,dateOfJoining
+1,1001,Shivam,200,09-05-2020
+P,1002,Akash,20000,9-06-2020
+3,1003,Kriti,15000,02-03-2020
+4,1004,Prakhar,35000,3-05-2020
+5,,Priyanka,20000,3-09-2020
